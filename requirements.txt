@@ -1,0 +1,9 @@
+pymongo
+python-dotenv
+openai
+langchain
+langchain-community
+pypdf
+langchain-openai
+python-dotenv
+ipykernel
