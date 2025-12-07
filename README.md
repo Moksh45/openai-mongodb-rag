@@ -253,10 +253,6 @@ If you can't connect to MongoDB Atlas:
 - [OpenAI Embeddings Guide](https://platform.openai.com/docs/guides/embeddings)
 - [RAG Tutorial](https://www.mongodb.com/docs/atlas/atlas-vector-search/tutorials/local-rag/)
 
-## License
-
-MIT License - feel free to use this project for learning and development.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
